@@ -1,0 +1,28 @@
+header {
+    height: 260px;
+}
+
+.header--button {
+    top: 200px;
+}
+
+.main--currency-table .curreny-table--title {
+    margin-right: 20px;
+    text-align: center;
+}
+
+.main--currency-table .exchange-table--title {
+    margin-right: 20px;
+    text-align: center;
+}
+
+.product-features--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
